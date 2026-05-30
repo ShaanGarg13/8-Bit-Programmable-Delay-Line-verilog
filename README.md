@@ -252,4 +252,4 @@ Key features referenced:
 
 ## Author
 
-Garg Shaan
+Shaan Garg
